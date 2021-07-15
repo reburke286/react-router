@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-router/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-router/static/js/main.ae565f8a.chunk.js",
-    "main.js.map": "/react-router/static/js/main.ae565f8a.chunk.js.map",
+    "main.js": "/react-router/static/js/main.6413e58c.chunk.js",
+    "main.js.map": "/react-router/static/js/main.6413e58c.chunk.js.map",
     "runtime-main.js": "/react-router/static/js/runtime-main.6a65e159.js",
     "runtime-main.js.map": "/react-router/static/js/runtime-main.6a65e159.js.map",
-    "static/js/2.6045b15c.chunk.js": "/react-router/static/js/2.6045b15c.chunk.js",
-    "static/js/2.6045b15c.chunk.js.map": "/react-router/static/js/2.6045b15c.chunk.js.map",
+    "static/js/2.afcecd3c.chunk.js": "/react-router/static/js/2.afcecd3c.chunk.js",
+    "static/js/2.afcecd3c.chunk.js.map": "/react-router/static/js/2.afcecd3c.chunk.js.map",
     "static/js/3.1f85cfd4.chunk.js": "/react-router/static/js/3.1f85cfd4.chunk.js",
     "static/js/3.1f85cfd4.chunk.js.map": "/react-router/static/js/3.1f85cfd4.chunk.js.map",
     "index.html": "/react-router/index.html",
     "static/css/main.a617e044.chunk.css.map": "/react-router/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.6045b15c.chunk.js.LICENSE.txt": "/react-router/static/js/2.6045b15c.chunk.js.LICENSE.txt",
+    "static/js/2.afcecd3c.chunk.js.LICENSE.txt": "/react-router/static/js/2.afcecd3c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-router/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6a65e159.js",
-    "static/js/2.6045b15c.chunk.js",
+    "static/js/2.afcecd3c.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.ae565f8a.chunk.js"
+    "static/js/main.6413e58c.chunk.js"
   ]
 }
